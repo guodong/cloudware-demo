@@ -1,5 +1,5 @@
 # cloudware-demo
-This document give you a demonstration of cloudware, you can follow the steps bellow to set up an minimal cloudware environment.
+This document give you a demonstration of cloudware, you can follow the steps bellow to set up a minimal cloudware environment.
 
 ## Prerequirement
 This demo is build on top of docker environment, you should get the latest docker installed, just follow the instructors of [docker docs](https://docs.docker.com). Host os is not critical, ubuntu server 14.04 is just fine.
