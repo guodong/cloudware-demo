@@ -19,6 +19,7 @@ NOTE: Command above must be ran as **root**, in order to get access to your dock
 * `$ cd ../`
 * `$ git clone https://github.com/guodong/mensa-ng2.git`
 * `$ cd mensa-ng2`
+* `$ git checkout demo`
 * `$ npm install`
 * `$ npm start`
 
