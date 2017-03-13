@@ -14,8 +14,11 @@ Nodejs environment is also needed, follow [Nodejs](https://nodejs.org) to prepar
 ### Deploy the cloudware manager server
 
 `$ git clone https://github.com/guodong/cloudware-manager.git`
+
 `$ cd cloudware-manager`
+
 `$ npm install`
+
 `$ sudo nodejs index.js`
 
 NOTE: Command above must be ran as **root**, in order to get access to your docker daemon.
@@ -23,10 +26,15 @@ NOTE: Command above must be ran as **root**, in order to get access to your dock
 ### Deploy the front end desktop environment
 
 `$ cd ../`
+
 `$ git clone https://github.com/guodong/mensa-ng2.git`
+
 `$ cd mensa-ng2`
+
 `$ git checkout demo`
+
 `$ npm install`
+
 `$ npm start`
 
 Then open your browser and visit http://[[your server ip]]:8080, you can see the familar desktop.
