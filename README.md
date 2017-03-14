@@ -9,7 +9,9 @@ Nodejs environment is also needed, follow [Nodejs](https://nodejs.org) to prepar
 ## Setup steps
 ### Pull the docker image of demonstration
 
-`$ sudo docker pull cloudwarehouse/demo:latest`
+`$ sudo docker pull registry.alauda.cn/guodong/cloudware-demo:latest`
+
+`$ sudo docker tag registry.alauda.cn/guodong/cloudware-demo:latest cloudwarehouse/demo`
 
 ### Deploy the cloudware manager server
 
