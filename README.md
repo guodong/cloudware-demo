@@ -35,9 +35,11 @@ NOTE: Command above must be ran as **root**, in order to get access to your dock
 
 `$ git checkout demo`
 
-`$ npm install`
+`$ cd dist`
 
-`$ npm start`
+`$ sudo npm install -g http-server`
+
+`$ http-server`
 
 Then open your browser and visit http://[[your server ip]]:8080, you can see the familar desktop.
 
