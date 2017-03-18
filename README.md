@@ -48,4 +48,4 @@ The setup script will be published in days as well~
 ## Tips
 
 * Once you close your browser or just close the page, everything related to your session will be destroyed automaticlly
-* Every cloudware will open a random port of your server, you can refresh your page in case of port collision.
+* Each cloudware will open a random port of your server, you can refresh your page in case of port collision.
